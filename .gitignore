@@ -1,0 +1,8 @@
+.DS_Store
+secrets.txt
+
+#comment -> this file is a example of a gitignore on iOS course Udemy 
+
+
+# with the * you can ignore all of the file that have that extension to commit
+*.txt
